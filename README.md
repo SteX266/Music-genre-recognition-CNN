@@ -1,1 +1,3 @@
-# Music-genre-recognition-CNN
+# Music genre classification using CNN
+
+
