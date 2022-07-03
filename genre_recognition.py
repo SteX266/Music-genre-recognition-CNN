@@ -108,7 +108,7 @@ if __name__ == '__main__':
     genres = genres.split()
   #  split_files(genres)
  #   make_spectrogram(["rock"])
-    divide_train_data(genres)
+   # divide_train_data(genres)
 
 
     train_dir = "/content/spectrograms_3sec/train/"
